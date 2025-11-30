@@ -2,6 +2,10 @@
 
 A comprehensive Python implementation of reservoir simulation based on MATLAB Reservoir Simulation Toolbox (MRST) principles. This project provides tools for modeling single-phase and multi-phase fluid flow in porous media.
 
+## Result figure
+![Alt text](https://github.com/jangojd/Reservoir_simulation_Pymrst/blob/b7559b247bdaed7f5cc22bc9a55fc51794ed9aff/download.png)
+
+
 ## 🎯 Overview
 
 PyMRST is an open-source Python library designed to simulate fluid flow in oil and gas reservoirs. It implements finite-volume numerical methods to solve pressure and saturation equations in complex geological formations. The toolbox is ideal for students, researchers, and professionals working in petroleum engineering, hydrogeology, and energy research.
